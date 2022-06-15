@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @risjacksonlee - I'm a microservices engineer (Go, AWS) for River Island
+- 👀 Improving: developing as a technical professional through 
+- - collaborating in open-source projects 
+- - learning as many languages and paradigms as I can
+- 🌱 Upskilling: learning Rust, alongside JS (React & Node)
+- 💞️ Collaboration: OSS projects, maybe when I get good enough at Rust 🤔 ...
+- 📫 Email: me@sejl.dev
